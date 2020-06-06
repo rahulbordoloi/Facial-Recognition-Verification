@@ -3,7 +3,7 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
-</u>A Product of Facebook AI Research</u>
+</u>A Product of Facebook AI Research</u> <br>
 Documentation : https://pypi.org/project/deepface/
 
 ## Goal
@@ -12,8 +12,8 @@ Facial Recognition and Verification using Facebook AI's DeepFace Framework
 
 ## Demo
 
-![](Asstes/123.gif)
-<img src="https://github.com/rahulbordoloi/Facial-Recognition-Verification/blob/master/DeepFace/Asstes/Rahul-Capture.PNG" width="800" height="500">
+![](Asstes/123.gif) <br>
+<img src="https://github.com/rahulbordoloi/Facial-Recognition-Verification/blob/master/DeepFace/Asstes/Rahul-Capture.PNG" width="640" height="360">
 
 ## Dependencies - 
 
