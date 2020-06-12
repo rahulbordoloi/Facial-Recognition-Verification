@@ -20,17 +20,15 @@ Facial Recognition and Verification using Facebook AI's DeepFace Framework
 If you're working on a Local Machine, install the dependencies from your terminal with -
 ```
 pip install -r requirements.txt
- ```
+```
  
 ## Run
 
 1. Download the Repository.
 2. Install the Dependencies in your system through your terminal/cmd using - <br>
-```pip intall -r requirements```.
+```pip install -r requirements```.
 3. Open ```DeepFace.ipynb``` using any ipynb based console. (Eg- Colab, Jupyter Lab etc)
-4. For Live Facial Recognition and Verification, run the following command in your Terminal/cmd - <br>
-```python deep_face.py
-```
+4. For Live Facial Recognition and Verification, run the following command in your Terminal/cmd - ```python deep_face.py```
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 If you are the helping and contributing one, your efforts and suggestion are always welcomed.
